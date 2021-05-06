@@ -1,5 +1,5 @@
 # Travel Agency Landing Page built with HTML5, CSS3, and Javascript
-This is a landing site for a travel comapny. It is fully flexbile on evry device for the best user experience
+This is a landing site for a travel company. It is fully flexbile on evry device for the best user experience
 
 OUTPUTS
 
