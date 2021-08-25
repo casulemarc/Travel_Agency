@@ -1,6 +1,8 @@
 # Travel Agency Landing Page built with HTML5, CSS3, and Javascript
 This is a landing site for a travel company. It is fully flexbile on evry device for the best user experience
 
+Visit the whole project here: https://explore-travel.netlify.app/
+
 OUTPUTS
 
 ![landing-page](https://user-images.githubusercontent.com/31680529/112711508-51e77680-8e9f-11eb-9092-95a3d5f114db.jpg)
